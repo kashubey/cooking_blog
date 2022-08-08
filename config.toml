@@ -1,5 +1,5 @@
 #baseurl = "https://klopotenko.com"
-baseurl = "https://kashubey.github.io"
+baseurl = "https://kashubey.github.io/cooking_blog/
 title = "KLOPOTENKO"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
